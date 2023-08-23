@@ -1,1 +1,1 @@
-# SerialPort_GUI_Beta
+# SerialPort_GUI_Beta In Python
